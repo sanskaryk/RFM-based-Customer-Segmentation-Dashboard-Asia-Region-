@@ -68,7 +68,10 @@ It combines transactional sales data with customer behavior metrics to deliver m
 
 ### 📷 Dashboard Preview
 
-*(Add screenshots here if available)*
+<img width="989" height="604" alt="b4" src="https://github.com/user-attachments/assets/d17cf2fc-5e1a-4007-a24d-757cb6a657e8" />
+<img width="1284" height="552" alt="b3" src="https://github.com/user-attachments/assets/8c5ea456-f7ae-493e-b48e-2943f7f1559e" />
+<img width="965" height="435" alt="b2" src="https://github.com/user-attachments/assets/4871e5bb-1797-4aa7-97c8-d7ba9f534c84" />
+<img width="965" height="686" alt="b1" src="https://github.com/user-attachments/assets/0aced412-4ee6-4220-9b51-2b5a6e679e82" />
 
 ---
 
